@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LittleLemon</string>
+    <string name="little_lemon_logo">Little Lemon Logo</string>
+    <string name="navigate_to_profile">navigate to profile</string>
+</resources>
